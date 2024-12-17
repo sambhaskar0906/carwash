@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ad71516.css",
+    "main.js": "/static/js/main.4f4dfed1.js",
+    "static/media/carwash.mp4": "/static/media/carwash.0465e222e578f94e165a.mp4",
+    "static/media/Whyusimage.png": "/static/media/Whyusimage.ea5c167603b5a1df1701.png",
+    "static/media/Logo.png": "/static/media/Logo.820e621b23f0cccde109.png",
+    "static/media/About.png": "/static/media/About.422adc8899c441921f32.png",
+    "static/media/Contact.png": "/static/media/Contact.a7298d4bd52dac753170.png",
+    "static/media/Vector.png": "/static/media/Vector.a9732fe572870eb9d358.png",
+    "static/media/red1.png": "/static/media/red1.a3bd5f3269371341f9b6.png",
+    "static/media/ourVisions.png": "/static/media/ourVisions.1d5fd1a724ac1b43c624.png",
+    "static/media/wolks.png": "/static/media/wolks.a47c4f71abf197edd226.png",
+    "static/media/Newlogocar.png": "/static/media/Newlogocar.03855dbdd4e8e8beff35.png",
+    "static/media/comprehensiveServices_thirdImage.png": "/static/media/comprehensiveServices_thirdImage.d240d6aa3de8e14ee463.png",
+    "static/media/ourmissonImg.png": "/static/media/ourmissonImg.af52bdfdeb5da5c8211e.png",
+    "static/media/comprehensiveServices_firstImage.png": "/static/media/comprehensiveServices_firstImage.c0e8d32f179f4f8194e2.png",
+    "static/media/cardshome.png": "/static/media/cardshome.4fb0f790b48807eedf2d.png",
+    "static/media/Groupaeroplane.png": "/static/media/Groupaeroplane.d21644b473c45a6b9eab.png",
+    "static/media/Carimgabout.png": "/static/media/Carimgabout.e4f5c44482c82a9393a9.png",
+    "static/media/AboutCar.png": "/static/media/AboutCar.dc62e0fdb6fdc1683c16.png",
+    "static/media/yellow1.png": "/static/media/yellow1.8f07241e3493f83f151d.png",
+    "static/media/comprehensiveServices_secImage.png": "/static/media/comprehensiveServices_secImage.5fbec823fe71355f3e02.png",
+    "static/media/Vector2.png": "/static/media/Vector2.09421cc33ebce77e4ae7.png",
+    "static/media/blue1.png": "/static/media/blue1.c61079c3bb9453896a86.png",
+    "static/media/Ratings.png": "/static/media/Ratings.314a0693030f4f5a199b.png",
+    "static/media/Ellipse 437.jpg": "/static/media/Ellipse 437.0314ecdf63ab5d9c1da4.jpg",
+    "static/media/Payment.png": "/static/media/Payment.2b7880a7ec0313b3768d.png",
+    "static/media/booking.png": "/static/media/booking.90d0d02d026940a613d8.png",
+    "static/media/Lower_Quads.svg": "/static/media/Lower_Quads.ec6ea2964f06f77b7f766570d699971d.svg",
+    "index.html": "/index.html",
+    "main.3ad71516.css.map": "/static/css/main.3ad71516.css.map",
+    "main.4f4dfed1.js.map": "/static/js/main.4f4dfed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad71516.css",
+    "static/js/main.4f4dfed1.js"
+  ]
+}
